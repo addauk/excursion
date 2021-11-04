@@ -1,0 +1,29 @@
+#download {
+  color: aquamarine;
+  font-size: 16px;
+}
+header h1 {
+  color: white;
+  font-size: 50px;
+}
+
+section {
+  padding: 5%;
+}
+
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+* {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
